@@ -1,0 +1,1 @@
+/home/amira/fundingApp/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/amira/fundingApp/contract/src/lib.rs /home/amira/fundingApp/contract/src/models.rs /home/amira/fundingApp/contract/src/utils.rs
